@@ -1,0 +1,13 @@
+На 2 уроці ми вивчали основи програмування, а саме основні операційні системи:
+Windows
+iOS
+linux
+Також ми опрацьовували роботу в Git Bash, ми працювали такі команди:
+ls
+cd
+git version
+git init
+cd .git
+git status
+git add
+git commit -m "name"
